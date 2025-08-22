@@ -8,7 +8,7 @@ int main()
     cin.tie(nullptr);
     int n;
     cin>>n;
-    vector<int>v(n+1);
+    vector<int> v(n+1);
     for(int i=0; i<n-1; i++)
     {
         int x;
